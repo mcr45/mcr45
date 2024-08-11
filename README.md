@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate developer from Italy. I love Sherlock Holmes, Pizza and traveling.Fail,learn,explore,improve. Always looking for a new challenge, both in code and in life.</h3>
+<h3 align="center">A clinical systems analyst and passionate developer from Italy. I love Sherlock Holmes, Pizza and traveling.Fail,learn,explore,improve. Always looking for a new challenge, both in code and in life.</h3>
 
 - 🔭 I’m currently working on [CMangi](https://github.com/mcr45/cimangi_frontend)
 
